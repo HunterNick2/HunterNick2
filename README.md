@@ -2,7 +2,7 @@
 - 👀 I’m interested in Human healthcare
 - 🌱 I’m currently learning ict and framework,, JavaScript en coding
 - 💞️ I’m looking to collaborate on advanced development of WhatsApp bot
-- 📫 How to reach me 254114660061
+- 📫 How to reach me https://wa.me/254114660061
 - ⚡ Fun fact: Remember you are not limited
 
 <!---
